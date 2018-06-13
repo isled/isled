@@ -1,0 +1,13 @@
+name: isled
+version: 0.1.0
+
+authors:
+  - monto <ymkwfn1688@qq.com>
+
+targets:
+  isled:
+    main: src/isled.cr
+
+crystal: 0.24.2
+
+license: MIT
